@@ -157,7 +157,7 @@ chess.onclick=function(e){
     		myWin[k]++;
     		computerWin[k]=6;
     		if(myWin[k]==5){
-    			alert('你赢了 ！恭喜~~ 请刷新网页进入下一局');
+    			alert('你赢了 ！恭喜~~ 请刷新网页进入下一局  ps我媳妇许静老漂亮了');
     			over=true;
     		}
     	}
@@ -247,7 +247,7 @@ var computerAI=function(){
     		computerWin[k]++;
     		myWin[k]=6;
     		if(computerWin[k]==5){
-    			alert('计算机赢了 ！沮丧 -- 刷新网页再来一局');
+    			alert('计算机赢了 ！沮丧 -- 刷新网页再来一局  ps我媳妇许静老漂亮了');
     			over=true;
     		}
     	}
